@@ -12,6 +12,13 @@ I enjoy transforming raw data into clean, analytics-ready datasets using **SQL, 
 - SQL (T-SQL)
 - Python
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-blue)
+![Python](https://img.shields.io/badge/Python-Data%20Engineering-yellow)
+![SSIS](https://img.shields.io/badge/SSIS-ETL-purple)
+![SSRS](https://img.shields.io/badge/SSRS-Reporting-teal)
+![Power BI](https://img.shields.io/badge/PowerBI-Analytics-orange)
+
+
 **Data Engineering**
 - ETL pipeline development
 - Dimensional modeling (Star Schema)
@@ -82,12 +89,5 @@ GitHub: https://github.com/valdes3080
 
 
 ---
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-blue)
-![Python](https://img.shields.io/badge/Python-Data%20Engineering-yellow)
-![SSIS](https://img.shields.io/badge/SSIS-ETL-purple)
-![SSRS](https://img.shields.io/badge/SSRS-Reporting-teal)
-![Power BI](https://img.shields.io/badge/PowerBI-Analytics-orange)
-
 
 
