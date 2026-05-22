@@ -1,6 +1,6 @@
 # Hi, I'm Tatiana Valdes 👋
 
-Aspiring **Data Engineer** passionate about building reliable data pipelines and structured data warehouse solutions.
+Aspiring **Data Engineer/ Data Analyst** passionate about building reliable data pipelines and structured data warehouse solutions.
 
 I enjoy transforming raw data into clean, analytics-ready datasets using **SQL, ETL pipelines, and dimensional modeling**. My work focuses on designing scalable data systems that support reporting and business insights.
 
